@@ -1,0 +1,9 @@
+GET https://fortnite-api.com/v2/stats/br/v2?name=serifpha HTTP/1.1
+Authorization: 6883b8d5-e07d-4b9c-bd50-ae36a180696d
+
+###
+GET https://fortnite-api.com/v2/news HTTP/1.1
+Content-Type: application/json
+
+###
+GET https://fortnite-api.com/v1/map HTTP/1.1
